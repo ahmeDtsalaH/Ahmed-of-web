@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Salah</h1>
-<h3 align="center">FullStack Web Developer from Sudan</h3>
+<h3 align="center">FullStack Web Developer </h3>
 
 - 💬 Ask me about **php,Laravel,MySQL,PostgreSQL,HTML,CSS,JavaScirpt,Vue.js,Linux,AWS-Lightsail,CCNA,Python**
 
